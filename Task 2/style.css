@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#colorButton {
+    height: 50px;
+    width: 240px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 2px 3px 2px 0px black;
+    border-top: 1px solid #000;
+    margin-top: 300px;
+    font-size: 16px;
+    font-weight: bold;
+}
